@@ -1,6 +1,6 @@
 # `node_modules` cleaner
 
-Find and Remove node_modules folders.
+Node Modules Cleaner (`nmc`) is a utility tool designed to find and remove `node_modules` directories from your projects efficiently. This helps to free up disk space and reduce clutter in your development environment.
 
 ## Installation
 
@@ -61,6 +61,4 @@ This project is licensed under the MIT License.
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
-## About
 
-Node Modules Cleaner (nmc) is a utility tool designed to find and remove `node_modules` directories from your projects efficiently. This helps to free up disk space and reduce clutter in your development environment.
