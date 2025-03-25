@@ -5,7 +5,10 @@ edition = "2021"
 
 [dependencies]
 async-channel = "2.3.1"
+clap = { version = "^4.5", features = ["derive"] }
+clap_derive = "4.5.32"
 futures = "0.3.31"
 indicatif = { version = "0.17.11", features = ["tokio"] }
+inquire = "0.7.5"
 tokio = { version = "1.44.1", features = ["full"] }
 walkdir = "2.5.0"
