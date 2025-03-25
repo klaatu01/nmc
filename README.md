@@ -1,4 +1,4 @@
-# Node Modules Cleaner
+# `node_modules` cleaner
 
 Find and Remove node_modules folders.
 
