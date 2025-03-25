@@ -2,6 +2,12 @@
 name = "nmc"
 version = "0.0.1"
 edition = "2021"
+license = "MIT"
+description = "node_modules cleaner"
+repository = "https://github.com/klaatu01/nmc"
+documentation = "https://docs.rs/klaatu01/0.0.1/nmc/"
+readme = "README.md"
+keywords = ["node_modules", "cleaner", "node", "modules"]
 
 [dependencies]
 async-channel = "2.3.1"
